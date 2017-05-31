@@ -9,10 +9,3 @@ public class NumberOfIslands {
         return 0;
     }
 }
-class Exec {
-    int result = new NumberOfIslands().numIslands(new char[][]{
-        {'0','1','1','0'},
-        {'0','0','0','0'}
-    });
-
-}
